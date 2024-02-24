@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.countryCard {
+  display: flex;
+  flex-direction: column;
+}
+
 .card {
   height: 100% !important;
 }
